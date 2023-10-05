@@ -18,3 +18,17 @@
     <li> </li>
     <li> </li>
   </ul> ***
+  
+# ordered list 
+- each item is numbered 
+- list different steps in a process or rank items for first to last 
+- use <ol> tag to create an ordered tag
+
+# images 
+= <img> tag allows you to add an image 
+- <img> tag is a self-closing tag
+- it has a required attribute called src
+- src = source
+- uniform resource locator (url)
+- url is the web address or local address where a file is stored
+example: <img src=''>
