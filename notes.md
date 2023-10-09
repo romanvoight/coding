@@ -32,3 +32,20 @@
 - uniform resource locator (url)
 - url is the web address or local address where a file is stored
 example: <img src=''>
+
+# img alts 
+- being an exceptional web developer is making your site accesible to all users including users all of background
+- alt attribute which means alternative text, brings meaning to the images by describing them : description of the image
+
+example: <img src='' alt='a field of yellow sunflowers'
+
+- this can improve the seo of your site
+
+  # videos
+- you can also display videos in a website
+- <video> tag and it requires a src attribute
+- reqauires an opening and a closing tag
+- use width and height to resize the video
+- controls : to pause and play the video
+
+example : <video src='' width
