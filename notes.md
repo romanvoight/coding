@@ -48,4 +48,4 @@ example: <img src='' alt='a field of yellow sunflowers'
 - use width and height to resize the video
 - controls : to pause and play the video
 
-example : <video src='' width
+example : <video src='' width='' height='' > video not supported </video>
