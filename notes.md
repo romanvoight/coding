@@ -49,3 +49,8 @@ example: <img src='' alt='a field of yellow sunflowers'
 - controls : to pause and play the video
 
 example : <video src='' width='' height='' > video not supported </video>
+
+
+/// 11/13/2023
+You can use the button element to create a button 
+example: <button>Follow</button>
